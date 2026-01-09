@@ -171,6 +171,8 @@ O script pode falhar ao baixar relatórios nos seguintes cenários:
 * Relatórios criados diretamente no navegador (sem PBIX original).
 * Datasets com *Atualização Incremental* configurada.
 * Relatórios grandes que excedem o timeout da API.
+* [Sharepoint](https://grupoultracloud.sharepoint.com/sites/ug-dir-dac-ti/Depto%20%20Inteligncia%20de%20Negocio%20%20Externo/Forms/AllItems.aspx?id=%2Fsites%2Fug%2Ddir%2Ddac%2Dti%2FDepto%20%20Inteligncia%20de%20Negocio%20%20Externo%2FProjetos%2FPower%20BI&viewid=6831b9f3%2Db8cd%2D447b%2Db234%2D30ca0470df4e&xsdata=MDV8MDJ8fDhmOGQwNDRjZWUzMjQwZDE5Y2NiMDhkZTRlZDRjOWIyfDcyYjVmNDE2OGY0MTRjODhhNmEwYmI0YjkxMzgzODg4fDB8MHw2MzkwMzQ4NzI5NTcxNDgzNjN8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T2pVd016UTNOVE0yTFRRM05XSXRORGxqWWkwNFpXVm1MVFkwWldWaVltVmxaV1k0TTE5a04yWmlNMkV3WXkxak5UVXlMVFJqWm1VdFlUUmxPUzB5WmpVeVpqSTRPRGN4WXpaQWRXNXhMbWRpYkM1emNHRmpaWE12YldWemMyRm5aWE12TVRjMk56ZzVNRFE1TkRBd01BPT18MzZkOWU2NGUxODdlNDlkOWZmZjcwOGRlNGVkNGM5YjF8MDE5MDFhMWM4NWE3NDQ5MmFkZWM3OGU0NjUyZmM2NGY%3D&sdata=Y3NVa20ySEdzUUFTZWliT3czMUlDNFlYYTIzc3plZkFFWEZHR1FWVFZNUT0%3D&ovuser=72b5f416-8f41-4c88-a6a0-bb4b91383888%2Cgilberto.sales.ext%40ultragaz.com.br)
+
 
 
 ```Powershell
